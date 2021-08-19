@@ -53,6 +53,7 @@ List of tools I like
 * [pm2-discord](https://github.com/FranciscoG/pm2-discord) Send pm2 logs to discord via webhooks
 * [n8n](https://github.com/n8n-io/n8n)
 * [huginn](https://github.com/huginn/huginn)
+* [FlexGet](https://flexget.com/)
 # Self Hosting
 * [Chibisafe](https://github.com/WeebDev/chibisafe)
 * [RSSHub](https://github.com/DIYgod/RSSHub)
