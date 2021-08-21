@@ -31,10 +31,10 @@ List of tools I like
 # Monitoring
 * [Netdata](https://github.com/netdata/netdata)
 * [Grafana](https://github.com/grafana/grafana)
-* [traccer](https://github.com/traccar/traccar)
+* [traccar](https://github.com/traccar/traccar)
 # Cloud
-* [rclone](https://rclone.org/)
-* [RaiDrive](https://www.raidrive.com/)
+* [rclone](https://rclone.org/) Rsync but for cloud services
+* [RaiDrive](https://www.raidrive.com/) Mount and manage cloud remotes on your desktop
 * [GDIndex](https://github.com/maple3142/GDIndex) Google Drive Index with Cloudflare Workers
 # P2P
 * [WebTorrent](https://github.com/webtorrent/webtorrent)
@@ -43,13 +43,13 @@ List of tools I like
 * [deluge](https://deluge-torrent.org/)
 * [swizzin](https://github.com/swizzin/swizzin)
 # [Plex](https://www.plex.tv/)
-* [sonarr](https://sonarr.tv/)
-* [radarr](https://radarr.video/)
-* [requestrr](https://github.com/darkalfx/requestrr)
-* [jackett](https://github.com/Jackett/Jackett)
-* [xteve](https://github.com/xteve-project/xTeVe)
+* [Sonarr](https://sonarr.tv/) Automate TV downloads
+* [Radarr](https://radarr.video/) Automate movie downloads
+* [Requestrr](https://github.com/darkalfx/requestrr) Discord bot for requesting stuff to sonarr/radarr
+* [Jackett](https://github.com/Jackett/Jackett) API support for trackers
+* [Xteve](https://github.com/xteve-project/xTeVe) M3U Proxy for Plex DVR and Emby Live TV
 # Automation
-* [pm2](https://pm2.keymetrics.io/)
+* [pm2](https://pm2.keymetrics.io/) Neat process manager
 * [pm2-discord](https://github.com/FranciscoG/pm2-discord) Send pm2 logs to discord via webhooks
 * [n8n](https://github.com/n8n-io/n8n)
 * [huginn](https://github.com/huginn/huginn)
