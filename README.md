@@ -4,7 +4,7 @@ List of tools I like
 # Download Tools
 * [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 * [ytarchive](https://github.com/Kethsar/ytarchive)
-* [yuarchive-raw](https://github.com/lekoOwO/ytarchive-raw)
+* [ytarchive-raw](https://github.com/lekoOwO/ytarchive-raw)
 * [auto-ytarchive-raw](https://github.com/lekoOwO/auto-ytarchive-raw)
 * [streamlink](https://github.com/streamlink/streamlink)
 * [gallery-dl](https://github.com/mikf/gallery-dl)
