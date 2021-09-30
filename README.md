@@ -16,15 +16,17 @@ List of tools I like
 * [twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder)
 * [automatic-twitch-recorder](https://github.com/Instinctlol/automatic-twitch-recorder)
 * [TwitchAutomator](https://github.com/MrBrax/TwitchAutomator)
-* [GeniePy](https://github.com/Slyyxp/GeniePy)
+* [GeniePy](https://github.com/Slyyxp/GeniePy) Download tool for Korean music streaming service
 * [recursive-goindex-download](https://github.com/atlonxp/recursive-goIndex-downloader)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader)
 * [snscrape](https://github.com/JustAnotherArchivist/snscrape)
 * [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md)
 * [annie](https://github.com/iawia002/annie)
-* [rget](https://github.com/wasamas/rget)
+* [rget](https://github.com/wasamas/rget) Download tool for radios
 * [grab-site](https://github.com/ArchiveTeam/grab-site)
-
+# Server scripts
+* [fail2ban bash script](https://github.com/FunctionClub/Fail2ban) `wget https://raw.githubusercontent.com/FunctionClub/Fail2ban/master/fail2ban.sh && bash fail2ban.sh 2>&1 | tee fail2ban.log`
+* 
 # Encoding
 * [ffmpeg](https://ffmpeg.org/)
 * 
@@ -59,6 +61,5 @@ List of tools I like
 * [RSSHub](https://github.com/DIYgod/RSSHub)
 * [MonitoRSS](https://github.com/synzen/MonitoRSS)
 * [AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor)
-* [fail2ban script](https://github.com/FunctionClub/Fail2ban) `wget https://raw.githubusercontent.com/FunctionClub/Fail2ban/master/fail2ban.sh && bash fail2ban.sh 2>&1 | tee fail2ban.log`
 # Benchmarking
 * [YABS](https://github.com/masonr/yet-another-bench-script)
