@@ -59,5 +59,6 @@ List of tools I like
 * [RSSHub](https://github.com/DIYgod/RSSHub)
 * [MonitoRSS](https://github.com/synzen/MonitoRSS)
 * [AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor)
+* [fail2ban](https://github.com/fail2ban/fail2ban) `wget https://raw.githubusercontent.com/FunctionClub/Fail2ban/master/fail2ban.sh && bash fail2ban.sh 2>&1 | tee fail2ban.log`
 # Benchmarking
 * [YABS](https://github.com/masonr/yet-another-bench-script)
