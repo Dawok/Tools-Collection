@@ -34,6 +34,7 @@ List of tools I like
 * [Netdata](https://github.com/netdata/netdata)
 * [Grafana](https://github.com/grafana/grafana)
 * [traccar](https://github.com/traccar/traccar)
+* [uptime-kuma](https://github.com/louislam/uptime-kuma) Self-hosted monitoring tool
 # Cloud
 * [rclone](https://rclone.org/) Rsync but for cloud services
 * [RaiDrive](https://www.raidrive.com/) Mount and manage cloud remotes on your desktop
