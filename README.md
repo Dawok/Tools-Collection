@@ -10,6 +10,7 @@ List of tools I like
 * [gallery-dl](https://github.com/mikf/gallery-dl)
 * [tikup](https://github.com/Coloradohusky/TikUp)
 * [aria2c](https://github.com/aria2/aria2)
+* [Twspace-dl](https://github.com/Ryu1845/twspace-dl) A python script to download twitter space, only works on running spaces (for now).
 * [instaloader](https://github.com/instaloader/instaloader)
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive)
 * [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover)
@@ -24,7 +25,7 @@ List of tools I like
 * [annie](https://github.com/iawia002/annie)
 * [rget](https://github.com/wasamas/rget) Download tool for radios
 * [grab-site](https://github.com/ArchiveTeam/grab-site)
-# Server scripts
+# Misc scripts
 * [fail2ban bash script](https://github.com/FunctionClub/Fail2ban) `wget https://raw.githubusercontent.com/FunctionClub/Fail2ban/master/fail2ban.sh && bash fail2ban.sh 2>&1 | tee fail2ban.log`
 * 
 # Encoding
