@@ -27,7 +27,9 @@ List of tools I like
 * [grab-site](https://github.com/ArchiveTeam/grab-site)
 # Misc scripts
 * [fail2ban bash script](https://github.com/FunctionClub/Fail2ban) `wget https://raw.githubusercontent.com/FunctionClub/Fail2ban/master/fail2ban.sh && bash fail2ban.sh 2>&1 | tee fail2ban.log`
-* 
+
+# Browser Scripts
+* [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser)
 # Encoding
 * [ffmpeg](https://ffmpeg.org/)
 * 
