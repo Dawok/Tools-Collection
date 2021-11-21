@@ -13,7 +13,7 @@ List of tools I like
 * [Twspace-dl](https://github.com/Ryu1845/twspace-dl) A python script to download Twitter Space
 * [instaloader](https://github.com/instaloader/instaloader)
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive)
-* [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover)
+* [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) Recover deleted VODs and clips from twitch
 * [twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder)
 * [automatic-twitch-recorder](https://github.com/Instinctlol/automatic-twitch-recorder)
 * [TwitchAutomator](https://github.com/MrBrax/TwitchAutomator)
