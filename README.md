@@ -2,7 +2,7 @@
 List of tools I like
 
 # Download Tools
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) A youtube-dl fork that is active
 * [ytarchive](https://github.com/Kethsar/ytarchive)
 * [ytarchive-raw](https://github.com/lekoOwO/ytarchive-raw)
 * [auto-ytarchive-raw](https://github.com/lekoOwO/auto-ytarchive-raw)
