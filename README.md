@@ -10,7 +10,7 @@ List of tools I like
 * [gallery-dl](https://github.com/mikf/gallery-dl)
 * [tikup](https://github.com/Coloradohusky/TikUp)
 * [aria2c](https://github.com/aria2/aria2)
-* [Twspace-dl](https://github.com/Ryu1845/twspace-dl) A python script to download Twitter Space
+* [Twspace-dl](https://github.com/Ryu1845/twspace-dl) A python module to download twitter spaces.
 * [instaloader](https://github.com/instaloader/instaloader)
 * [PyInstaLive](https://github.com/dvingerh/PyInstaLive)
 * [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) Recover deleted VODs and clips from twitch
