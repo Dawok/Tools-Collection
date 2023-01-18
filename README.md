@@ -28,7 +28,6 @@ List of tools I like
 * [fail2ban bash script](https://github.com/FunctionClub/Fail2ban) `wget https://raw.githubusercontent.com/FunctionClub/Fail2ban/master/fail2ban.sh && bash fail2ban.sh 2>&1 | tee fail2ban.log`
 
 # Browser Scripts
-* [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser)
 * [Youtube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) 
 * [YTBetter](https://gist.github.com/Dawok/50fd6c562101abd99a104ecb33e244fd/raw/82bb714375db862ab18a09ec0e7d098874408702/YTBetter.user.js) Patches YouTube to bypass some limitations
 # Encoding & Video
