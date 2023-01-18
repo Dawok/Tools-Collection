@@ -8,22 +8,20 @@ List of tools I like
 * [auto-ytarchive-raw](https://github.com/lekoOwO/auto-ytarchive-raw)
 * [streamlink](https://github.com/streamlink/streamlink)
 * [gallery-dl](https://github.com/mikf/gallery-dl)
-* [tikup](https://github.com/Coloradohusky/TikUp)
 * [aria2c](https://github.com/aria2/aria2)
 * [Twspace-dl](https://github.com/Ryu1845/twspace-dl) A python module to download twitter spaces.
 * [twspace-crawler](https://github.com/HitomaruKonpaku/twspace-crawler)
-* [instaloader](https://github.com/instaloader/instaloader)
-* [PyInstaLive](https://github.com/dvingerh/PyInstaLive)
-* [Twitch Recover](https://github.com/TwitchRecover/TwitchRecover) Recover deleted VODs and clips from twitch
+* [instaloader](https://github.com/instaloader/instaloader) Download Instagram posts and profiles
+* [PyInstaLive](https://github.com/dvingerh/PyInstaLive) Record Instagram Livestreams
+* [VodRecovery](https://github.com/not-nef/VodRecovery) Recover deleted VODs and clips from twitch
 * [twitch-stream-recorder](https://github.com/ancalentari/twitch-stream-recorder)
 * [automatic-twitch-recorder](https://github.com/Instinctlol/automatic-twitch-recorder)
-* [TwitchAutomator](https://github.com/MrBrax/TwitchAutomator)
-* [GeniePy](https://github.com/Slyyxp/GeniePy) Download tool for Korean music streaming service
+* [LiveStreamDVR](https://github.com/MrBrax/LiveStreamDVR) Automatically record Twitch and Youtube livestreams with webui
+* [rsack](https://github.com/Slyyxp/rsack) Download tool for Korean music streaming services
 * [recursive-goindex-download](https://github.com/atlonxp/recursive-goIndex-downloader)
 * [Open Directory Downloader](https://github.com/KoalaBear84/OpenDirectoryDownloader)
 * [snscrape](https://github.com/JustAnotherArchivist/snscrape)
 * [N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI/blob/master/README_ENG.md)
-* [annie](https://github.com/iawia002/annie)
 * [rget](https://github.com/wasamas/rget) Download tool for radios
 * [grab-site](https://github.com/ArchiveTeam/grab-site)
 # Misc scripts
