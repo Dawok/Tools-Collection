@@ -31,8 +31,11 @@ List of tools I like
 
 # Browser Scripts
 * [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser)
-# Encoding
+* [Youtube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) 
+* [YTBetter] (https://gist.github.com/Dawok/50fd6c562101abd99a104ecb33e244fd/raw/82bb714375db862ab18a09ec0e7d098874408702/YTBetter.user.js) Gives youtube live a better experience
+# Encoding & Video
 * [ffmpeg](https://ffmpeg.org/)
+* [LosslessCut](https://github.com/mifi/lossless-cut)
 * 
 # Monitoring
 * [Netdata](https://github.com/netdata/netdata)
