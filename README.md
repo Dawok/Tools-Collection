@@ -32,7 +32,7 @@ List of tools I like
 # Browser Scripts
 * [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser)
 * [Youtube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) 
-* [YTBetter] (https://gist.github.com/Dawok/50fd6c562101abd99a104ecb33e244fd/raw/82bb714375db862ab18a09ec0e7d098874408702/YTBetter.user.js) Gives youtube live a better experience
+* [YTBetter](https://gist.github.com/Dawok/50fd6c562101abd99a104ecb33e244fd/raw/82bb714375db862ab18a09ec0e7d098874408702/YTBetter.user.js) Gives youtube live a better experience
 # Encoding & Video
 * [ffmpeg](https://ffmpeg.org/)
 * [LosslessCut](https://github.com/mifi/lossless-cut)
@@ -60,7 +60,6 @@ List of tools I like
 * [Xteve](https://github.com/xteve-project/xTeVe) M3U Proxy for Plex DVR and Emby Live TV
 # Automation
 * [pm2](https://pm2.keymetrics.io/) Neat process manager
-* [pm2-discord](https://github.com/FranciscoG/pm2-discord) Send pm2 logs to discord via webhooks
 * [n8n](https://github.com/n8n-io/n8n)
 * [huginn](https://github.com/huginn/huginn)
 * [FlexGet](https://flexget.com/)
@@ -68,6 +67,6 @@ List of tools I like
 * [Chibisafe](https://github.com/WeebDev/chibisafe)
 * [RSSHub](https://github.com/DIYgod/RSSHub)
 * [MonitoRSS](https://github.com/synzen/MonitoRSS)
-* [AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor)
 # Benchmarking
 * [YABS](https://github.com/masonr/yet-another-bench-script)
+* [nench](https://github.com/n-st/nench)
