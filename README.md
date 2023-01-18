@@ -41,6 +41,7 @@ List of tools I like
 * [uptime-kuma](https://github.com/louislam/uptime-kuma) Self-hosted monitoring tool
 # Cloud
 * [rclone](https://rclone.org/) Rsync but for cloud services
+* [gclone](https://github.com/l3v11/gclone) Rclone but with support for folder IDs anad dynamic replacement of service accounts
 * [RaiDrive](https://www.raidrive.com/) Mount and manage cloud remotes on your desktop
 * [GDIndex](https://github.com/maple3142/GDIndex) Google Drive Index with Cloudflare Workers
 # P2P
