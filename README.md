@@ -30,12 +30,12 @@ List of tools I like
 # Browser Scripts
 * [Hcaptcha Solver](https://greasyfork.org/en/scripts/425854-hcaptcha-solver-automatically-solves-hcaptcha-in-browser)
 * [Youtube Age Restriction Bypass](https://github.com/zerodytrash/Simple-YouTube-Age-Restriction-Bypass/) 
-* [YTBetter](https://gist.github.com/Dawok/50fd6c562101abd99a104ecb33e244fd/raw/82bb714375db862ab18a09ec0e7d098874408702/YTBetter.user.js) Gives youtube live a better experience
+* [YTBetter](https://gist.github.com/Dawok/50fd6c562101abd99a104ecb33e244fd/raw/82bb714375db862ab18a09ec0e7d098874408702/YTBetter.user.js) Patches YouTube to bypass some limitations
 # Encoding & Video
 * [ffmpeg](https://ffmpeg.org/)
 * [LosslessCut](https://github.com/mifi/lossless-cut)
-* 
 # Monitoring
+* [pm2](https://pm2.keymetrics.io/) Neat process manager
 * [Netdata](https://github.com/netdata/netdata)
 * [Grafana](https://github.com/grafana/grafana)
 * [traccar](https://github.com/traccar/traccar)
@@ -57,7 +57,6 @@ List of tools I like
 * [Jackett](https://github.com/Jackett/Jackett) API support for trackers
 * [Xteve](https://github.com/xteve-project/xTeVe) M3U Proxy for Plex DVR and Emby Live TV
 # Automation
-* [pm2](https://pm2.keymetrics.io/) Neat process manager
 * [n8n](https://github.com/n8n-io/n8n)
 * [huginn](https://github.com/huginn/huginn)
 * [FlexGet](https://flexget.com/)
